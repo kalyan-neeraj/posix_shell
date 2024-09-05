@@ -68,10 +68,10 @@ The `~` symbol represents the home directory.
 ### Unzipping the Project
 First, unzip the project folder using the following command:
 
-- unzip <dowwnloaded_zip>
+- unzip <downloaded_zip>
 - If you unzipped in desktop
 - ```
-     cd ./desktop/<dowownloaded_zip>
+     cd ./desktop/<downloaded_zip>
      ```
 
 - To compile the shell, follow these steps:
