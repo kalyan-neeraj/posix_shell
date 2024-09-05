@@ -1,4 +1,4 @@
-# POSIX Shell Implementation - Assignment 2
+# POSIX Shell Implementation
 
 **Course**: Advanced Operating Systems 
 **Assignment**: POSIX Shell Implementation  
